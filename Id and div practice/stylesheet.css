@@ -1,0 +1,36 @@
+
+* { 
+    box-sizing: border-box;
+}
+  
+.box {
+    float: left;
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    border-color: black;
+    border-style: outset;
+}
+  
+
+#lightblue{
+    background-color: #17BEBB; 
+    text-align: center;
+}
+
+#red{
+    background-color:#D62246; 
+    text-align: center;
+}
+        
+#orange{
+    background-color:#FFDBB5; 
+    text-align: center;
+}
+       
+#purple{
+    background-color:#8B80F9; 
+    text-align: center;
+}
+
+        

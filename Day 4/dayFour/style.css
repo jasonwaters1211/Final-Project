@@ -1,0 +1,38 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    background-color: red;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+#title{
+    background-color: aqua;
+    width:265px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.main-img{
+    width:700px;
+    
+
+}
+.photo-container{
+
+    float:left;
+    text-align: center;
+    background-color: brown;
+    padding: 10px;
+    
+}
+.photo{
+    width: 200px;
+    margin: 3px;
+   
+}
