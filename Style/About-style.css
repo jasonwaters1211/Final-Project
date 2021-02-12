@@ -1,0 +1,23 @@
+.subh{
+    margin-top: 20px;
+    color: #313E50;
+    font-size: 25pt;
+    text-align: center;
+}
+
+#about-container{
+    height: 400px;
+    width: 100%; 
+}
+
+
+#about-text{
+    color: black;
+    background-color: white;
+    font-size: 16px;
+}
+
+#about-img{
+    float: left;
+    margin: 10px;
+}
