@@ -50,6 +50,24 @@ a:hover {
     background-repeat: no-repeat;
 }
 
+.commercial-container{             
+    float: left;
+    height: 100%;
+    width: 45%;
+    margin: 1%;
+    padding: .25%;
+    background-color: antiquewhite;
+}
+
+.personal-container{
+    float: right;
+    height: 100%;
+    width: 45%;
+    margin: 1%;
+    padding: .25%;
+    background-color: antiquewhite;
+}
+
 
 #review-container{
     height: 350px;
