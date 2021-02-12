@@ -51,23 +51,6 @@ a:hover {
 }
 
 
-#about-container{
-    height: 400px;
-    width: 100%; 
-}
-
-
-#about-text{
-    color: black;
-    background-color: white;
-    font-size: 16px;
-}
-
-#about-img{
-    float: left;
-    margin: 10px;
-}
-
 #review-container{
     height: 350px;
     width: 100%;
