@@ -1,0 +1,28 @@
+.nav{
+    position: sticky;
+    top: 0;
+    margin: 0 auto;
+    list-style:none;
+    text-align:center;
+    background-color:#7B9EA8;
+}
+
+.nav li{
+    display:inline;   
+}
+.nav a{
+    color: #F7EBE8;
+    display:inline-block;
+    padding:10px;
+    text-decoration: none;
+    font-size: 15pt;
+    
+}
+
+a:hover { 
+    background-color:  #313E50;
+}
+
+
+
+
