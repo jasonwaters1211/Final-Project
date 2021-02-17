@@ -13,13 +13,22 @@ body {
 
 
 .title{
-    padding-top: 100px;
+    padding-top: 50px;
     text-align: center;
-    color: #F7EBE8;
+    color: #313E50;
     font-size: 55pt;
+    background-color:#7b9ea838;
     
 }
-
+h2{
+    padding-top: 1%;
+    color: #313E50;
+    font-size: 35pt;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
 .subh{
     margin-top: 5%;
     color: #313E50;
@@ -55,14 +64,16 @@ a:hover {
 }
 
 #hero-image{
-    width: 100%;
+    display: block;
+    width: 95%;
     height: 400px;
     background-image: 
-    url(https://www.jacadatravel.com/wp-content/uploads/fly-images/337651/LETTERBOX-brzail-beach-in-paraty-1600x500-cc.jpg);
-    background-position: center;
-    margin: 0px;
-    background-color: beige;
-    background-repeat: no-repeat;
+    url(https://www.lefthudson.com/wp-content/uploads/2019/11/underwater-wallpaper-hd-best-of-desktop-underwater-hd-wallpapers-combination-of-underwater-wallpaper-hd.jpg);
+    background-position: left;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #7b9ea838;
+    border-radius: 20px;
 }
 #commercial-subh{
     margin-top: 5%;
