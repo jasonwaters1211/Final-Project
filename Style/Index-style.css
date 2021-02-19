@@ -45,7 +45,7 @@ h2{
     margin: 0 auto;
     list-style:none;
     text-align:center;
-    background-color:#7b9ea8;
+    background-color:#7B9EA8;
 }
 
 .nav li{
@@ -147,7 +147,6 @@ footer {
     
 }
 a:hover{
-    color: #F7EBE8;
     background-color:#313E50;
 
 }
