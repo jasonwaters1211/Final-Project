@@ -1,3 +1,15 @@
+html {
+    position: relative;
+    min-height: 100%;  
+
+}
+
+body {
+    font-family: 'Brygada 1918', serif;
+    margin: 0 0 1px;
+    padding: 25px;
+}
+
 .nav{
     position: sticky;
     top: 0;
@@ -23,10 +35,34 @@ a:hover {
     background-color:  #313E50;
 }
 
+
 iframe{
     background: #7b9ea838 ;
     height: 800px;
+    margin-bottom: 3%;
 }
+
+footer {
+    position: absolute;
+    left: 0;
+    top: 5;
+    bottom: 0;
+    width: 100%;
+    background-color: #7B9EA8;
+    color: white;
+    text-align: center;
+    
+    
+}
+a:hover{
+    color: antiquewhite;
+    background-color: #7B9EA8;
+}
+
+footer a{
+    text-decoration: none;
+}
+
 
 
 
