@@ -1,3 +1,15 @@
+html {
+    position: relative;
+    min-height: 100%;  
+
+}
+
+body {
+    font-family: 'Brygada 1918', serif;
+    margin: 0 0 1px;
+    padding: 25px;
+}
+
 .nav{
    position: sticky;
    top: 0;
@@ -24,6 +36,7 @@ a:hover {
 }
 
 
+
 .subh{
     margin-top: 20px;
     color: #313E50;
@@ -32,7 +45,7 @@ a:hover {
 }
 
 #about-container{
-    height: 10%;
+    height: 40%;
     width: 80%; 
     float: right;
 }
@@ -45,15 +58,16 @@ a:hover {
     
 }
 
-#about-img{
+.about-img{
     float: left;
-    margin: 10px;
+    
 }
 
 #review-container{
     height: 350px;
     width: 100%;
     float: left;
+    margin-bottom: 5%;
 }
 
 #review-text{
@@ -62,3 +76,26 @@ a:hover {
     font-size: 16px;
     width: 100%;
 }
+
+
+footer {
+    position: absolute;
+    left: 0;
+    top: 5;
+    bottom: 0;
+    width: 100%;
+    background-color: #7B9EA8;
+    color: white;
+    text-align: center;
+    
+    
+}
+a:hover{
+    color: antiquewhite;
+    background-color: #7B9EA8;
+}
+
+footer a{
+    text-decoration: none;
+}
+
