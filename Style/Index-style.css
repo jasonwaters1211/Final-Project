@@ -5,14 +5,15 @@ html {
 }
 
 body {
+    font-family: 'Brygada 1918', serif;
     margin: 0 0 1px;
-    /* bottom = footer height */
     padding: 25px;
 }
 
 
 
 .title{
+    
     padding-top: 50px;
     text-align: center;
     color: #F7EBE8;
