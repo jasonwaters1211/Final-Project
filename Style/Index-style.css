@@ -142,18 +142,17 @@ footer {
     bottom: 0;
     width: 100%;
     background-color: #7B9EA8;
-    color: white;
     text-align: center;
     text-decoration: none;
     
 }
 a:hover{
-    color: antiquewhite;
-    background-color: #7B9EA8;
+    color: #F7EBE8;
+    background-color:#313E50;
 
 }
 
 footer a{
+    color: #F7EBE8;    
     text-decoration: none;
 }
-
